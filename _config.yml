@@ -1,8 +1,8 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
-url: https://github.com/veightz/veightz.gitub.com.git
+url: veightz.github.io
+# url: https://github.com/veightz/veightz.gitub.com.git
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Veight Zhou
